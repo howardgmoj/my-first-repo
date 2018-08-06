@@ -1,0 +1,15 @@
+{
+  "_id": "pageUSN",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "pageUSN--USN",
+      "_type": "text",
+      "hint": "Issued with the original application, 7 numbers starting with 2 (for example, 2123456)",
+      "label": "What's the Unique submission number (USN)?",
+      "name": "usn"
+    }
+  ],
+  "heading": "Case details",
+  "url": "/enter-usn"
+}

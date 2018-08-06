@@ -1,0 +1,34 @@
+{
+  "_id": "pageSolicitor",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "pageSolicitor--solicitorName",
+      "_type": "text",
+      "label": "Full name",
+      "name": "solicitorName"
+    },
+    {
+      "_id": "pageSolicitor--solicitorFirm",
+      "_type": "text",
+      "label": "Firm (optional)",
+      "name": "solicitorFirm"
+    },
+    {
+      "_id": "pageSolicitor--solicitorEmail",
+      "_type": "email",
+      "hint": "We’ll use this to send you a copy of your application, and to contact you with a decision",
+      "label": "Email address",
+      "name": "solicitorEmail"
+    },
+    {
+      "_id": "pageSolicitor--laaAccNo",
+      "_type": "text",
+      "hint": "6 characters, letters and numbers (for example, 1A234B)",
+      "label": "Legal aid provider account number",
+      "name": "laaAccNo"
+    }
+  ],
+  "heading": "Solicitor’s details",
+  "url": "/solicitor-details"
+}

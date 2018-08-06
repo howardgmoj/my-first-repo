@@ -1,0 +1,15 @@
+{
+  "_id": "pageMAAT",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "pageMAAT--MAAT",
+      "_type": "text",
+      "hint": "Issued with the original application, 7 numbers (for example, 6123456)",
+      "label": "What's the Means Assessment Administration Tool (MAAT) number?",
+      "name": "maat"
+    }
+  ],
+  "sectionHeading": "Case details",
+  "url": "/enter-maat"
+}

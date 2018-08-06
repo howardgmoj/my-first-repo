@@ -1,0 +1,21 @@
+{
+  "_id": "pageDefendant",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "pageDefendant--DefendantName",
+      "_type": "text",
+      "label": "Full name",
+      "name": "defendantName"
+    },
+    {
+      "_id": "pageDefendant--DefendantDoB",
+      "_type": "date",
+      "hint": "For example, 31 3 1980",
+      "label": "Date of birth",
+      "name": "defendantDoB"
+    }
+  ],
+  "heading": "Defendant’s details",
+  "url": "/defendant-details"
+}
